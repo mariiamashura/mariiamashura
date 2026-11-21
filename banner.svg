@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="260" viewBox="0 0 830 260" role="img" aria-label="Mariia Mashura: graphic designer, artist, technology enthusiast">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A1B13"/>
+      <stop offset="1" stop-color="#4A2E1E"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="830" height="260" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="830" height="260" fill="url(#bg)"/>
+    <!-- aperture / lens rings -->
+    <g fill="none" stroke-linecap="round">
+      <circle cx="690" cy="130" r="150" stroke="#F6B72C" stroke-opacity=".12" stroke-width="2"/>
+      <circle cx="690" cy="130" r="115" stroke="#F6B72C" stroke-opacity=".25" stroke-width="2"/>
+      <circle cx="690" cy="130" r="80" stroke="#E8743B" stroke-opacity=".55" stroke-width="3"/>
+      <circle cx="690" cy="130" r="45" stroke="#F6B72C" stroke-width="4"/>
+    </g>
+    <g fill="#F6B72C">
+      <circle cx="690" cy="130" r="14"/>
+      <circle cx="770" cy="130" r="6" fill="#E8743B"/>
+      <circle cx="610" cy="130" r="4" fill="#EBDDBC"/>
+      <circle cx="690" cy="50" r="5" fill="#EBDDBC" fill-opacity=".8"/>
+    </g>
+    <!-- composition blocks -->
+    <rect x="520" y="196" width="150" height="10" rx="5" fill="#EBDDBC" fill-opacity=".18"/>
+    <rect x="520" y="214" width="96" height="10" rx="5" fill="#F6B72C" fill-opacity=".55"/>
+    <!-- text -->
+    <text x="48" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" fill="#EBDDBC">Mariia Mashura</text>
+    <rect x="50" y="124" width="72" height="5" rx="2.5" fill="#F6B72C"/>
+    <text x="48" y="168" font-family="'Segoe UI', Arial, sans-serif" font-size="22" letter-spacing="1" fill="#F6B72C">Graphic designer  ·  Artist  ·  Tech enthusiast</text>
+    <text x="48" y="204" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#EBDDBC" fill-opacity=".8">Visual thinking + AI + development = ideas turned into real products</text>
+    <text x="48" y="232" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#EBDDBC" fill-opacity=".55">Kyiv, Ukraine</text>
+  </g>
+</svg>
