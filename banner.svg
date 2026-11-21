@@ -22,8 +22,8 @@
       <circle cx="690" cy="50" r="5" fill="#EBDDBC" fill-opacity=".8"/>
     </g>
     <!-- composition blocks -->
-    <rect x="520" y="196" width="150" height="10" rx="5" fill="#EBDDBC" fill-opacity=".18"/>
-    <rect x="520" y="214" width="96" height="10" rx="5" fill="#F6B72C" fill-opacity=".55"/>
+    <rect x="560" y="226" width="150" height="10" rx="5" fill="#EBDDBC" fill-opacity=".18"/>
+    <rect x="560" y="242" width="96" height="10" rx="5" fill="#F6B72C" fill-opacity=".55"/>
     <!-- text -->
     <text x="48" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" fill="#EBDDBC">Mariia Mashura</text>
     <rect x="50" y="124" width="72" height="5" rx="2.5" fill="#F6B72C"/>
